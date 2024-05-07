@@ -6259,7 +6259,7 @@ li {
 
 .headerservices {
   color: #000;
-  background-color: rgba(212, 132, 175, .13);
+  background-color: #eaf8fb;
   justify-content: center;
   align-items: center;
   padding: 100px 60px;
@@ -8649,6 +8649,18 @@ li {
   padding: 16px 24px;
   font-size: 15px;
   font-weight: 700;
+}
+
+.headerservices1 {
+  background-color: #fff;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 100px;
+  display: flex;
+}
+
+.text-span-18, .text-span-19 {
+  color: var(--wa);
 }
 
 @media screen and (max-width: 991px) {
